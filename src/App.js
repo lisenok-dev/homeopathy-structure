@@ -1,23 +1,17 @@
-import logo from './logo.svg';
-import './App.css';
+import './css/App.css';
+import './css/PeriodicTable.css';
+import PeriodicTable from './Components/PeriodicTable';
+import React from "react";
+import Modal from "react-modal";
+
+// Set the root element for accessibility
+Modal.setAppElement("#root");
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <h1>Периодическая таблица Менделеева</h1>
+      <PeriodicTable />
     </div>
   );
 }
