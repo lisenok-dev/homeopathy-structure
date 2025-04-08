@@ -822,11 +822,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Alesya\\mendeleev\\WebApi\\WebApi.csproj",
+      "projectUniqueName": "C:\\Work\\mendeleev\\webapi\\WebApi.csproj",
       "projectName": "WebApi",
-      "projectPath": "C:\\Users\\Alesya\\mendeleev\\WebApi\\WebApi.csproj",
+      "projectPath": "C:\\Work\\mendeleev\\webapi\\WebApi.csproj",
       "packagesPath": "C:\\Users\\Alesya\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Alesya\\mendeleev\\WebApi\\obj\\",
+      "outputPath": "C:\\Work\\mendeleev\\webapi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -846,8 +846,8 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "C:\\Users\\Alesya\\mendeleev\\structure\\structure.csproj": {
-              "projectPath": "C:\\Users\\Alesya\\mendeleev\\structure\\structure.csproj"
+            "C:\\Work\\mendeleev\\structure\\structure.csproj": {
+              "projectPath": "C:\\Work\\mendeleev\\structure\\structure.csproj"
             }
           }
         }

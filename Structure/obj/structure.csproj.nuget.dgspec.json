@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Alesya\\mendeleev\\structure\\structure.csproj": {}
+    "C:\\Work\\mendeleev\\structure\\structure.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Alesya\\mendeleev\\structure\\structure.csproj": {
+    "C:\\Work\\mendeleev\\structure\\structure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Alesya\\mendeleev\\structure\\structure.csproj",
+        "projectUniqueName": "C:\\Work\\mendeleev\\structure\\structure.csproj",
         "projectName": "structure",
-        "projectPath": "C:\\Users\\Alesya\\mendeleev\\structure\\structure.csproj",
+        "projectPath": "C:\\Work\\mendeleev\\structure\\structure.csproj",
         "packagesPath": "C:\\Users\\Alesya\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Alesya\\mendeleev\\structure\\obj\\",
+        "outputPath": "C:\\Work\\mendeleev\\structure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

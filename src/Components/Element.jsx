@@ -10,7 +10,8 @@ const Element = (props) => {
       if (modalOpen) return; // ✅ Prevent opening again if already open
       setModalOpen(true);
 
-      const response = await fetch(`http://localhost:5169/api/ASO/parse?input=${encodeURIComponent(props.search)}`);
+      const apiUrl = process.env.REACT_APP_API_URL;
+      const response = await fetch(`${apiUrl}/api/ASO/parse?input=${encodeURIComponent(props.search)}`);
       if (!response.ok) throw new Error("Failed to fetch data");
 
       const data = await response.json();

@@ -8,13 +8,16 @@ table {
     text-align: center;
     font-family: Arial, sans-serif;
     font-size: 0.7em;
-} /* Added missing closing brace */
+}
+
+/* Added missing closing brace */
 .separator {
     height: 60px;
     border: 2px solid white;
     border-bottom: 1px;
     border-top: 1px;
 }
+
 td {
     border: 1px solid #999;
     padding: 3px;
@@ -26,28 +29,32 @@ td:first-child {
     text-align: center;
     font-weight: bold;
 }
-td button, th button {
+
+td button,
+th button {
     width: 100%;
-    background: none; 
-    border: none; 
-    text-decoration: none; 
+    background: none;
+    border: none;
+    text-decoration: none;
     font-size: 1em;
     cursor: pointer;
     text-align: left;
     padding: 0.5px;
 
 }
- .container {
+
+td .container {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     /* gap: 5px; */
 }
 
- .leftcontainer,
- .rightcontainer {
+td .leftcontainer,
+.rightcontainer {
     display: block;
 }
- .rightcontainer {
+
+td .rightcontainer {
     text-align: right;
 }
 
@@ -63,11 +70,100 @@ td .rightcontainer {
 .nonetopborder {
     border-top: 2px solid white;
 }
+
 .border-left {
     border: 2px solid white;
     border-left: 1px;
 }
+
 .border-right {
     border: 2px solid white;
     border-right: 1px;
+}
+
+ul {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+li {
+    cursor: pointer;
+    color: #024893;
+    text-decoration: none;
+}
+
+li:hover {
+    text-decoration: underline;
+}
+
+.modal-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: rgba(0, 0, 0, 0.5);
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+.modal-content {
+    background: white;
+    border-radius: 10px;
+    padding: 20px;
+
+    margin: auto;
+    box-sizing: border-box;
+
+    min-width: 300px;
+    max-width: 90vw;
+
+    min-height: 100px;
+    max-height: 90vh;
+    overflow-y: auto;
+}
+
+.modal-content .container {
+    display: grid;
+    grid-template-columns: auto 1fr;
+    gap: 30px;
+}
+
+.modal-content .container h2 {
+    margin-block-start: 0.4em;
+}
+
+.modal-content .leftcontainer,
+.rightcontainer {
+    display: block;
+}
+
+.modal-content .rightcontainer {
+    display: flex;
+    /* Use flexbox for the layout */
+    justify-content: flex-end;
+    /* Align children (button) to the right */
+    align-items: flex-start;
+    /* Align the button to the top */
+    width: 100%;
+    /* Ensure it takes up full width */
+}
+
+.modal-content .rightcontainer div {
+    margin-block-start: 2.5em;
+}
+
+/* Style for the close button */
+.close-button {
+    background: transparent;
+    border: none;
+    font-size: 1.5em;
+    margin-block-start: 0.6em;
+    cursor: pointer;
+}
+
+.close-button:hover {
+    color: red;
+    /* Change color on hover */
 }

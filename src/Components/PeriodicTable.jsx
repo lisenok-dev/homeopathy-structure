@@ -2,7 +2,7 @@ import Element from "./Element";
 import TableRow from "./TableRow";
 import TableColumn from "./TableColumn";
 
-import React, { Fragment, useState } from 'react';
+import React, { Fragment } from 'react';
 
 export default function PeriodicTable() {
 
