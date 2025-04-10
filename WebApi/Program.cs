@@ -29,10 +29,6 @@ app.UseCors("AllowAll");
 app.UseRouting();
 app.MapControllers();
 
-app.UseStaticFiles(); // Позволяет серверу отдавать статические файлы
-app.UseSpa(spa =>
-{
-    spa.Options.SourcePath = Path.Combine(Directory.GetCurrentDirectory(), "build");
-});
+
 
 app.Run();

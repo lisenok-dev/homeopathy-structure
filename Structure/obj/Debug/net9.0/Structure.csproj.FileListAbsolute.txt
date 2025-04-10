@@ -696,3 +696,4 @@ C:\Work\mendeleev\structure\obj\Debug\net9.0\structure.dll
 C:\Work\mendeleev\structure\obj\Debug\net9.0\refint\structure.dll
 C:\Work\mendeleev\structure\obj\Debug\net9.0\structure.pdb
 C:\Work\mendeleev\structure\obj\Debug\net9.0\ref\structure.dll
+C:\Work\mendeleev\structure\obj\Debug\net9.0\structure.sourcelink.json
