@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.d102b731.chunk.css",
-    "main.js": "/static/js/main.723929aa.chunk.js",
-    "main.js.map": "/static/js/main.723929aa.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.f27e42ef.js",
-    "runtime~main.js.map": "/static/js/runtime~main.f27e42ef.js.map",
-    "static/js/2.7b0847b0.chunk.js": "/static/js/2.7b0847b0.chunk.js",
-    "static/js/2.7b0847b0.chunk.js.map": "/static/js/2.7b0847b0.chunk.js.map",
-    "static/js/3.bd282c0b.chunk.js": "/static/js/3.bd282c0b.chunk.js",
-    "static/js/3.bd282c0b.chunk.js.map": "/static/js/3.bd282c0b.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.e447a87ce887b260cef3b8e661de0733.js": "/precache-manifest.e447a87ce887b260cef3b8e661de0733.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.d102b731.chunk.css.map": "/static/css/main.d102b731.chunk.css.map"
+    "main.css": "/homeopathy-structure/static/css/main.d102b731.chunk.css",
+    "main.js": "/homeopathy-structure/static/js/main.723929aa.chunk.js",
+    "main.js.map": "/homeopathy-structure/static/js/main.723929aa.chunk.js.map",
+    "runtime~main.js": "/homeopathy-structure/static/js/runtime~main.055675d1.js",
+    "runtime~main.js.map": "/homeopathy-structure/static/js/runtime~main.055675d1.js.map",
+    "static/js/2.7b0847b0.chunk.js": "/homeopathy-structure/static/js/2.7b0847b0.chunk.js",
+    "static/js/2.7b0847b0.chunk.js.map": "/homeopathy-structure/static/js/2.7b0847b0.chunk.js.map",
+    "static/js/3.bd282c0b.chunk.js": "/homeopathy-structure/static/js/3.bd282c0b.chunk.js",
+    "static/js/3.bd282c0b.chunk.js.map": "/homeopathy-structure/static/js/3.bd282c0b.chunk.js.map",
+    "index.html": "/homeopathy-structure/index.html",
+    "precache-manifest.5a0da5b75134a21aff1ef27ef6c19657.js": "/homeopathy-structure/precache-manifest.5a0da5b75134a21aff1ef27ef6c19657.js",
+    "service-worker.js": "/homeopathy-structure/service-worker.js",
+    "static/css/main.d102b731.chunk.css.map": "/homeopathy-structure/static/css/main.d102b731.chunk.css.map"
   }
 }
