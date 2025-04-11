@@ -1,8 +1,0 @@
-services:
-  - type: web
-    name: webapi
-    runtime: docker
-    plan: free
-    branch: main
-    dockerfilePath: ./Dockerfile
-    autoDeploy: true
