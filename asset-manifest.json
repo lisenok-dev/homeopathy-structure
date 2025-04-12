@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/homeopathy-structure/static/css/main.d102b731.chunk.css",
-    "main.js": "/homeopathy-structure/static/js/main.f5dc8475.chunk.js",
-    "main.js.map": "/homeopathy-structure/static/js/main.f5dc8475.chunk.js.map",
+    "main.js": "/homeopathy-structure/static/js/main.df948028.chunk.js",
+    "main.js.map": "/homeopathy-structure/static/js/main.df948028.chunk.js.map",
     "runtime~main.js": "/homeopathy-structure/static/js/runtime~main.055675d1.js",
     "runtime~main.js.map": "/homeopathy-structure/static/js/runtime~main.055675d1.js.map",
     "static/js/2.7b0847b0.chunk.js": "/homeopathy-structure/static/js/2.7b0847b0.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.bd282c0b.chunk.js": "/homeopathy-structure/static/js/3.bd282c0b.chunk.js",
     "static/js/3.bd282c0b.chunk.js.map": "/homeopathy-structure/static/js/3.bd282c0b.chunk.js.map",
     "index.html": "/homeopathy-structure/index.html",
-    "precache-manifest.0f75cae310062803ac69ed9806805e78.js": "/homeopathy-structure/precache-manifest.0f75cae310062803ac69ed9806805e78.js",
+    "precache-manifest.5740ea829c70409b347f60fcb9a3e3ad.js": "/homeopathy-structure/precache-manifest.5740ea829c70409b347f60fcb9a3e3ad.js",
     "service-worker.js": "/homeopathy-structure/service-worker.js",
     "static/css/main.d102b731.chunk.css.map": "/homeopathy-structure/static/css/main.d102b731.chunk.css.map"
   }
