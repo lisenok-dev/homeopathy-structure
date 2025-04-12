@@ -749,9 +749,3 @@ C:\Work\mendeleev\webapi\obj\Debug\net9.0\WebApi.pdb
 C:\Work\mendeleev\webapi\obj\Debug\net9.0\WebApi.genruntimeconfig.cache
 C:\Work\mendeleev\webapi\obj\Debug\net9.0\ref\WebApi.dll
 C:\Work\mendeleev\webapi\obj\Debug\net9.0\WebApi.sourcelink.json
-C:\Work\mendeleev\webapi\bin\Debug\net9.0\publish\web.config
-C:\Work\mendeleev\webapi\bin\Debug\net9.0\publish\appsettings.json
-C:\Work\mendeleev\webapi\bin\Debug\net9.0\publish\appsettings.Production.json
-C:\Work\mendeleev\webapi\bin\Debug\net9.0\publish\WebApi.deps.json
-C:\Work\mendeleev\webapi\bin\Debug\net9.0\publish\WebApi.runtimeconfig.json
-C:\Work\mendeleev\webapi\bin\Debug\net9.0\publish\WebApi.staticwebassets.endpoints.json
