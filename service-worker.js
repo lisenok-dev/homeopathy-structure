@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/homeopathy-structure/precache-manifest.5740ea829c70409b347f60fcb9a3e3ad.js"
+  "/homeopathy-structure/precache-manifest.c372780cd804168abd968c0dd4ef7333.js"
 );
 
 self.addEventListener('message', (event) => {
