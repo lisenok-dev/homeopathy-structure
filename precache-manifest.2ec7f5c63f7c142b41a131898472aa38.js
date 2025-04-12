@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d952d9c5860e6a2cc8b1d17c0bbdac0d",
+    "revision": "8d82e3dc5ba890e54941b0227df1a19d",
     "url": "/homeopathy-structure/index.html"
   },
   {
-    "revision": "5188ff51ab75e348efbf",
-    "url": "/homeopathy-structure/static/css/main.f80aaac4.chunk.css"
+    "revision": "90b7240efcfe61ced19a",
+    "url": "/homeopathy-structure/static/css/main.54bf4691.chunk.css"
   },
   {
     "revision": "b0fcfc914bf87b9e228b",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/homeopathy-structure/static/js/3.bd282c0b.chunk.js"
   },
   {
-    "revision": "5188ff51ab75e348efbf",
-    "url": "/homeopathy-structure/static/js/main.a5bc85b8.chunk.js"
+    "revision": "90b7240efcfe61ced19a",
+    "url": "/homeopathy-structure/static/js/main.0185db71.chunk.js"
   },
   {
     "revision": "9c80ead99a2027e22cda",
