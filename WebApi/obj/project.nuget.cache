@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XXfzXJIB0Fk=",
+  "dgSpecHash": "nbcoKdm8vFg=",
   "success": true,
-  "projectFilePath": "C:\\Work\\mendeleev\\webapi\\WebApi.csproj",
+  "projectFilePath": "C:\\Work\\mendeleev\\WebApi\\WebApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Alesya\\.nuget\\packages\\anglesharp\\1.2.0\\anglesharp.1.2.0.nupkg.sha512",
     "C:\\Users\\Alesya\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.3\\microsoft.aspnetcore.openapi.9.0.3.nupkg.sha512",

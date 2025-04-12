@@ -1,7 +1,7 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Work\\mendeleev\\webapi\\WebApi.csproj": {}
+    "C:\\Work\\mendeleev\\WebApi\\WebApi.csproj": {}
   },
   "projects": {
     "C:\\Work\\mendeleev\\structure\\structure.csproj": {
@@ -78,14 +78,14 @@
         }
       }
     },
-    "C:\\Work\\mendeleev\\webapi\\WebApi.csproj": {
+    "C:\\Work\\mendeleev\\WebApi\\WebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Work\\mendeleev\\webapi\\WebApi.csproj",
+        "projectUniqueName": "C:\\Work\\mendeleev\\WebApi\\WebApi.csproj",
         "projectName": "WebApi",
-        "projectPath": "C:\\Work\\mendeleev\\webapi\\WebApi.csproj",
+        "projectPath": "C:\\Work\\mendeleev\\WebApi\\WebApi.csproj",
         "packagesPath": "C:\\Users\\Alesya\\.nuget\\packages\\",
-        "outputPath": "C:\\Work\\mendeleev\\webapi\\obj\\",
+        "outputPath": "C:\\Work\\mendeleev\\WebApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
