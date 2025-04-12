@@ -18,7 +18,8 @@ export default function PeriodicTable(props) {
     };
 
     useEffect(() => {
-        fetch('/resources/Elements.json') // Assuming Elements.json is in the public/resources folder
+
+        fetch(`${process.env.PUBLIC_URL}/resources/Elements.json`) // Assuming Elements.json is in the public/resources folder
             .then(response => {
                 if (!response.ok) {
                     throw new Error(`HTTP error! status: ${response.status}`);
