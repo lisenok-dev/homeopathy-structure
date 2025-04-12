@@ -1,30 +1,22 @@
-import React, { useState } from "react";
-import ModalComponent from "../Components/Modals/ModalComponent";
+import React from "react";
 
 const Element = (props) => {
-  const [modalOpen, setModalOpen] = useState(false);
-  const [results, setResults] = useState([]);
 
   const handleSearch = async () => {
     try {
-      if (modalOpen) return; // ✅ Prevent opening again if already open
-      setModalOpen(true);
+      if (props.isOpen) return; // ✅ Prevent opening again if already open
+      props.setModalOpen(true);
+      props.setElement(props);
 
       const apiUrl = process.env.REACT_APP_API_URL;
       const response = await fetch(`${apiUrl}/api/ASO/parse?input=${encodeURIComponent(props.search)}`);
       if (!response.ok) throw new Error("Failed to fetch data");
 
       const data = await response.json();
-      setResults(data);
+      props.setResults(data);
     } catch (error) {
       console.error("Error fetching ASO data:", error);
     }
-  };
-
-  // 🔹 Close modal and reset results
-  const closeModal = () => {
-    setModalOpen(false);
-    setResults([]); // ✅ Clear results to prevent conflicts
   };
 
   return (
@@ -37,10 +29,6 @@ const Element = (props) => {
         <div>{props.name}</div>
         <div>{props.russianName}</div>
       </button>
-
-      {modalOpen && ( // ✅ Only render when needed
-        <ModalComponent isOpen={modalOpen} onClose={closeModal} results={results} {...props} />
-      )}
     </td>
   );
 };

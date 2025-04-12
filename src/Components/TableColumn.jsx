@@ -1,9 +1,7 @@
 import React from 'react';
 
-const TableColumn = (props) => {
+export default function TableColumn(props) {
     return (
-        <th><a href='blank'>{props.number + 1}</a></th>
+      <td>{props.number}</td>
     );
-};
-
-export default TableColumn;
+  }

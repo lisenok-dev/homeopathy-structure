@@ -117,10 +117,10 @@ li:hover {
     box-sizing: border-box;
 
     min-width: 300px;
-    max-width: 90vw;
+    max-width: 95vw;
 
     min-height: 100px;
-    max-height: 90vh;
+    max-height: 95vh;
     overflow-y: auto;
 }
 

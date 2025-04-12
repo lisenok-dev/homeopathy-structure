@@ -2,7 +2,7 @@ import React from "react";
 import Modal from "react-modal";
 import DOMPurify from "dompurify"; // Import DOMPurify for sanitizing HTML
 
-const ModalComponent = ({ isOpen, onClose, results = [], name, russianName }) => {
+const ModalComponent = ({ isOpen, onClose, results = [], element }) => {
   if (!isOpen) return null; // ✅ Ensure modal isn't rendered when closed
 
   const handleClick = async (url,index) => {
@@ -32,7 +32,7 @@ const ModalComponent = ({ isOpen, onClose, results = [], name, russianName }) =>
 
       <div className="container">
         <div className="leftcontainer">
-          <h2>{name} - {russianName}</h2>
+          <h2>{element.name} - {element.russianName}</h2>
 
           {results.length === 1 && results[0].url === '' ?
             (<p>{results[0].name}</p>)
