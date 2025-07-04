@@ -46,7 +46,7 @@ namespace Structure.ASO
                     if (count == 0) continue;
 
                     var asoModelList = drugList?
-                        .Where(drug => searchDrugs.Any(s => drug.Link?.TextContent?.ToLower().Contains(s) ?? false))
+                        .Where(drug => searchDrugs.Any(s => drug.Link?.TextContent?.ToLower().StartsWith(s) ?? false))
                         .Select(drug => new ASOModel
                         {
                             Name = drug.Link?.TextContent ?? string.Empty,

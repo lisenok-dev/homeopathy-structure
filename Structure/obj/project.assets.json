@@ -740,11 +740,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Work\\mendeleev\\structure\\structure.csproj",
-      "projectName": "structure",
-      "projectPath": "C:\\Work\\mendeleev\\structure\\structure.csproj",
+      "projectUniqueName": "C:\\Work\\mendeleev\\Structure\\Structure.csproj",
+      "projectName": "Structure",
+      "projectPath": "C:\\Work\\mendeleev\\Structure\\Structure.csproj",
       "packagesPath": "C:\\Users\\Alesya\\.nuget\\packages\\",
-      "outputPath": "C:\\Work\\mendeleev\\structure\\obj\\",
+      "outputPath": "C:\\Work\\mendeleev\\Structure\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

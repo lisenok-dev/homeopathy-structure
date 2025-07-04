@@ -6,7 +6,7 @@
         "russianName": "Водород",
         "atomicMass": "1.008",
         "family": "Неметаллы",
-        "search": "[Hydrogen]",
+        "search": "[Hydrogen, Hydrogenium]",
         "row": 1,
         "column": 1
     },
@@ -50,7 +50,7 @@
         "russianName": "Бор",
         "atomicMass": "10.81",
         "family": "Металлы",
-        "search": "[Boron]",
+        "search": "[Boron, Boracicum, Boricum]",
         "row": 2,
         "column": 3
     },
@@ -61,7 +61,7 @@
         "russianName": "Углерод",
         "atomicMass": "12.011",
         "family": "Неметаллы",
-        "search": "[Carbon]",
+        "search": "[Carbon, Graphites]",
         "row": 2,
         "column": 10
     },
@@ -94,7 +94,7 @@
         "russianName": "Фтор",
         "atomicMass": "18.998",
         "family": "Галогены",
-        "search": "[Fluorine]",
+        "search": "[Fluor]",
         "row": 2,
         "column": 17
     },
@@ -112,11 +112,11 @@
     {
         "atomicNumber": 11,
         "symbol": "Na",
-        "name": "Sodium",
+        "name": "Natrium",
         "russianName": "Натрий",
         "atomicMass": "22.990",
         "family": "Щелочные металлы",
-        "search": "[Sodium]",
+        "search": "[Borax, Natrum, Natrium]",
         "row": 3,
         "column": 1
     },
@@ -127,29 +127,29 @@
         "russianName": "Магний",
         "atomicMass": "24.305",
         "family": "Щелочноземельные металлы",
-        "search": "[Magnesium]",
+        "search": "[Magnesium, Magnesia]",
         "row": 3,
         "column": 2
     },
     {
         "atomicNumber": 13,
         "symbol": "Al",
-        "name": "Aluminum",
+        "name": "Aluminium",
         "russianName": "Алюминий",
         "atomicMass": "26.982",
         "family": "Металлы",
-        "search": "[Aluminum]",
+        "search": "[Alumen, Alumina, Aluminium]",
         "row": 3,
         "column": 3
     },
     {
         "atomicNumber": 14,
         "symbol": "Si",
-        "name": "Silicon",
+        "name": "Silicium",
         "russianName": "Кремний",
         "atomicMass": "28.085",
         "family": "Неметаллы",
-        "search": "[Silicon]",
+        "search": "[Silicium, Silicea, Silica]",
         "row": 3,
         "column": 10
     },
@@ -160,7 +160,7 @@
         "russianName": "Фосфор",
         "atomicMass": "30.974",
         "family": "Неметаллы",
-        "search": "[Phosphorus]",
+        "search": "[Phosphorus, Phsphorus, Phosphoricum]",
         "row": 3,
         "column": 15
     },
@@ -171,18 +171,18 @@
         "russianName": "Сера",
         "atomicMass": "32.06",
         "family": "Неметаллы",
-        "search": "[Sulfur]",
+        "search": "[Sulphur]",
         "row": 3,
         "column": 16
     },
     {
         "atomicNumber": 17,
         "symbol": "Cl",
-        "name": "Chlorine",
+        "name": "Chlorium",
         "russianName": "Хлор",
         "atomicMass": "35.45",
         "family": "Галогены",
-        "search": "[Chlorine]",
+        "search": "[Chlorum]",
         "row": 3,
         "column": 17
     },
@@ -200,11 +200,11 @@
     {
         "atomicNumber": 19,
         "symbol": "K",
-        "name": "Potassium",
+        "name": "Kalium",
         "russianName": "Калий",
         "atomicMass": "39.098",
         "family": "Щелочные металлы",
-        "search": "[Potassium]",
+        "search": "[Kali]",
         "row": 4,
         "column": 1
     },
@@ -215,7 +215,7 @@
         "russianName": "Кальций",
         "atomicMass": "40.078",
         "family": "Щелочноземельные металлы",
-        "search": "[Calcium]",
+        "search": "[Calc]",
         "row": 4,
         "column": 2
     },
@@ -259,36 +259,36 @@
         "russianName": "Хром",
         "atomicMass": "51.996",
         "family": "Металлы",
-        "search": "[Chromium]",
+        "search": "[Chrom]",
         "row": 4,
         "column": 6
     },
     {
         "atomicNumber": 25,
         "symbol": "Mn",
-        "name": "Manganese",
+        "name": "Manganum",
         "russianName": "Марганец",
         "atomicMass": "54.938",
         "family": "Металлы",
-        "search": "[Manganese]",
+        "search": "[Manganum]",
         "row": 4,
         "column": 7
     },
     {
         "atomicNumber": 26,
         "symbol": "Fe",
-        "name": "Iron",
+        "name": "Ferrum",
         "russianName": "Железо",
         "atomicMass": "55.845",
         "family": "Металлы",
-        "search": "[Iron]",
+        "search": "[Iron, Ferrum]",
         "row": 4,
         "column": 8
     },
     {
         "atomicNumber": 27,
         "symbol": "Co",
-        "name": "Cobalt",
+        "name": "Cobaltum",
         "russianName": "Кобальт",
         "atomicMass": "58.933",
         "family": "Металлы",
@@ -299,22 +299,22 @@
     {
         "atomicNumber": 28,
         "symbol": "Ni",
-        "name": "Nickel",
+        "name": "Niccolum",
         "russianName": "Никель",
         "atomicMass": "58.693",
         "family": "Металлы",
-        "search": "[Nickel]",
+        "search": "[Niccolum]",
         "row": 4,
         "column": 10
     },
     {
         "atomicNumber": 29,
         "symbol": "Cu",
-        "name": "Copper",
+        "name": "Cuprum",
         "russianName": "Медь",
         "atomicMass": "63.546",
         "family": "Металлы",
-        "search": "[Copper]",
+        "search": "[Cuprum]",
         "row": 4,
         "column": 11
     },
@@ -336,7 +336,7 @@
         "russianName": "Галлий",
         "atomicMass": "69.723",
         "family": "Металлы",
-        "search": "[Gallium]",
+        "search": "[Gallium, Gallicum, Galium]",
         "row": 4,
         "column": 13
     },
@@ -354,7 +354,7 @@
     {
         "atomicNumber": 33,
         "symbol": "As",
-        "name": "Arsenic",
+        "name": "Arsenicum",
         "russianName": "Мышьяк",
         "atomicMass": "74.922",
         "family": "Полуметаллы",
@@ -376,11 +376,11 @@
     {
         "atomicNumber": 35,
         "symbol": "Br",
-        "name": "Bromine",
+        "name": "Bromum",
         "russianName": "Бром",
         "atomicMass": "79.904",
         "family": "Галогены",
-        "search": "[Bromine]",
+        "search": "[Brom]",
         "row": 4,
         "column": 17
     },
@@ -508,11 +508,11 @@
     {
         "atomicNumber": 47,
         "symbol": "Ag",
-        "name": "Silver",
+        "name": "Argentum",
         "russianName": "Серебро",
         "atomicMass": "107.868",
         "family": "Металлы",
-        "search": "[Silver]",
+        "search": "[Argentum]",
         "row": 5,
         "column": 11
     },
@@ -541,22 +541,22 @@
     {
         "atomicNumber": 50,
         "symbol": "Sn",
-        "name": "Tin",
+        "name": "Stannum",
         "russianName": "Олово",
         "atomicMass": "118.71",
         "family": "Металлы",
-        "search": "[Tin]",
+        "search": "[Stannum]",
         "row": 5,
         "column": 14
     },
     {
         "atomicNumber": 51,
         "symbol": "Sb",
-        "name": "Antimony",
+        "name": "Stibium",
         "russianName": "Сурьма",
         "atomicMass": "121.76",
         "family": "Полуметаллы",
-        "search": "[Antimony]",
+        "search": "[Antimon, Stibium]",
         "row": 5,
         "column": 15
     },
@@ -574,11 +574,11 @@
     {
         "atomicNumber": 53,
         "symbol": "I",
-        "name": "Iodine",
+        "name": "Iodum",
         "russianName": "Йод",
         "atomicMass": "126.90",
         "family": "Галогены",
-        "search": "[Iodine]",
+        "search": "[Iod]",
         "row": 5,
         "column": 17
     },
@@ -611,7 +611,7 @@
         "russianName": "Барий",
         "atomicMass": "137.33",
         "family": "Щелочноземельные металлы",
-        "search": "[Barium]",
+        "search": "[Bari, Bary]",
         "row": 6,
         "column": 2
     },
@@ -783,7 +783,7 @@
         "family": "Transition Metals",
         "row": 6,
         "column": 6,
-        "search": "[Tungsten]"
+        "search": "[Tungsten, Wolfram]"
     },
     {
         "atomicNumber": 75,
@@ -827,29 +827,29 @@
         "family": "Transition Metals",
         "row": 6,
         "column": 10,
-        "search": "[Platinum]"
+        "search": "[Platin]"
     },
     {
         "atomicNumber": 79,
         "symbol": "Au",
-        "name": "Gold",
+        "name": "Aurum",
         "russianName": "Золото",
         "atomicMass": "196.97",
         "family": "Transition Metals",
         "row": 6,
         "column": 11,
-        "search": "[Gold]"
+        "search": "[Aurum, Gold]"
     },
     {
         "atomicNumber": 80,
         "symbol": "Hg",
-        "name": "Mercury",
+        "name": "Hidrargyrum",
         "russianName": "Ртуть",
         "atomicMass": "200.59",
         "family": "Transition Metals",
         "row": 6,
         "column": 12,
-        "search": "[Mercury]"
+        "search": "[Mercurius]"
     },
     {
         "atomicNumber": 81,
@@ -865,13 +865,13 @@
     {
         "atomicNumber": 82,
         "symbol": "Pb",
-        "name": "Lead",
+        "name": "Plumbum",
         "russianName": "Свинец",
         "atomicMass": "207.2",
         "family": "Post-transition Metals",
         "row": 6,
         "column": 14,
-        "search": "[Lead]"
+        "search": "[Plumbum]"
     },
     {
         "atomicNumber": 83,
@@ -882,7 +882,7 @@
         "family": "Post-transition Metals",
         "row": 6,
         "column": 15,
-        "search": "[Bismuth]"
+        "search": "[Bismut]"
     },
     {
         "atomicNumber": 84,
@@ -898,13 +898,13 @@
     {
         "atomicNumber": 85,
         "symbol": "At",
-        "name": "Astatine",
+        "name": "Astatium",
         "russianName": "Астат",
         "atomicMass": "210",
         "family": "Metalloids",
         "row": 6,
         "column": 17,
-        "search": "[Astatine]"
+        "search": "[Astat]"
     },
     {
         "atomicNumber": 86,
@@ -1016,11 +1016,11 @@
     {
         "atomicNumber": 97,
         "symbol": "Bk",
-        "name": "Berkelium",
+        "name": "Bercelium",
         "russianName": "Беркелий",
         "atomicMass": "247",
         "family": "Actinides",
-        "search": "[Berkelium]"
+        "search": "[Bercelium]"
     },
     {
         "atomicNumber": 98,
