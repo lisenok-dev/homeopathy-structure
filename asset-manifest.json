@@ -1,17 +1,15 @@
 {
   "files": {
-    "main.css": "https://lisenok-dev.github.io/homeopathy-structure/static/css/main.54bf4691.chunk.css",
-    "main.js": "https://lisenok-dev.github.io/homeopathy-structure/static/js/main.293fdfba.chunk.js",
-    "main.js.map": "https://lisenok-dev.github.io/homeopathy-structure/static/js/main.293fdfba.chunk.js.map",
-    "runtime~main.js": "https://lisenok-dev.github.io/homeopathy-structure/static/js/runtime~main.fddf11a6.js",
-    "runtime~main.js.map": "https://lisenok-dev.github.io/homeopathy-structure/static/js/runtime~main.fddf11a6.js.map",
-    "static/js/2.7b0847b0.chunk.js": "https://lisenok-dev.github.io/homeopathy-structure/static/js/2.7b0847b0.chunk.js",
-    "static/js/2.7b0847b0.chunk.js.map": "https://lisenok-dev.github.io/homeopathy-structure/static/js/2.7b0847b0.chunk.js.map",
-    "static/js/3.bd282c0b.chunk.js": "https://lisenok-dev.github.io/homeopathy-structure/static/js/3.bd282c0b.chunk.js",
-    "static/js/3.bd282c0b.chunk.js.map": "https://lisenok-dev.github.io/homeopathy-structure/static/js/3.bd282c0b.chunk.js.map",
-    "index.html": "https://lisenok-dev.github.io/homeopathy-structure/index.html",
-    "precache-manifest.1f667ffac43043e858dcd23df774420a.js": "https://lisenok-dev.github.io/homeopathy-structure/precache-manifest.1f667ffac43043e858dcd23df774420a.js",
-    "service-worker.js": "https://lisenok-dev.github.io/homeopathy-structure/service-worker.js",
-    "static/css/main.54bf4691.chunk.css.map": "https://lisenok-dev.github.io/homeopathy-structure/static/css/main.54bf4691.chunk.css.map"
-  }
+    "main.css": "http://localhost:3000/static/css/main.c1f98b2e.css",
+    "main.js": "http://localhost:3000/static/js/main.0831593a.js",
+    "static/js/453.bda8967f.chunk.js": "http://localhost:3000/static/js/453.bda8967f.chunk.js",
+    "index.html": "http://localhost:3000/index.html",
+    "main.c1f98b2e.css.map": "http://localhost:3000/static/css/main.c1f98b2e.css.map",
+    "main.0831593a.js.map": "http://localhost:3000/static/js/main.0831593a.js.map",
+    "453.bda8967f.chunk.js.map": "http://localhost:3000/static/js/453.bda8967f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c1f98b2e.css",
+    "static/js/main.0831593a.js"
+  ]
 }
