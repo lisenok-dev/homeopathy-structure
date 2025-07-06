@@ -33,6 +33,10 @@ export default function PeriodicTable(props) {
                 setError(error);
                 console.error("Could not load elements:", error);
             });
+
+            const apiUrl = process.env.REACT_APP_API_URL;
+            fetch(`${apiUrl}/api/ASO/loading`);
+            console.log(apiUrl);
     }, []);
 
     if (error) {

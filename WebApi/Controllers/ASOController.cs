@@ -61,5 +61,11 @@ namespace WebApi.Controllers
                 return StatusCode(500, $"Internal server error: {ex.Message}");
             }
         }
+
+        [HttpGet("loading")]
+        public IActionResult GetLoading()
+        {
+            return Ok("Loading...");
+        }
     }
 }
